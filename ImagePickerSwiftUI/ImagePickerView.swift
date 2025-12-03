@@ -40,5 +40,4 @@ struct ImagePickerView: View {
 
 #Preview {
     ImagePickerView()
-        .preferredColorScheme(.dark)
 }
